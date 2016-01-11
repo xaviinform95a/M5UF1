@@ -12,5 +12,5 @@ seqüencialment, aplicades sobre un conjunt de dades.
 
 Quines dades processa un programa informàtic? Bé, això dependrà del tipus de 
 programa:
-·· Un editor processa les dades d'un document de text.
-⋅⋅ Un full de càlcul processa dades numèriques ubicades en un fitxer.
+  * Un editor processa les dades d'un document de text.
+  * Un full de càlcul processa dades numèriques ubicades en un fitxer.
