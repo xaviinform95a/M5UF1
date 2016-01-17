@@ -14,7 +14,7 @@ Quines dades processa un programa informàtic? Bé, això dependrà del tipus de
 programa:
   * Un editor processa les dades d'un document de text.
   * Un full de càlcul processa dades numèriques ubicades en un fitxer.
-  * 
+
 Per tant, la tasca d’un programador informàtic és escollir quines ordres constituiran
 un programa d’ordinador, en quin ordre s’han de dur a terme i sobre quines
 dades cal aplicar-les perquè el programa porti a terme la tasca que ha de resoldre.
