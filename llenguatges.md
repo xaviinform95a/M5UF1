@@ -50,7 +50,7 @@ Algunes característiques són:
   * El codi interpretat no és executat directament pel sistema operatiu. sinó que fa ús d'un intèrpret.
   * Cada sistema té el seu propi intèrpret.
 
-Els llenguatges de quarta generació o llenguatges de propòsit específic.
+Els **llenguatges de quarta generació o llenguatges de propòsit específic**.
 Aporten un nivell molt alt d’abstracció en la programació, permetent
 desenvolupar aplicacions sofisticades en un espai curt de temps, molt inferior
 al necessari per als llenguatges de 3a generació.
