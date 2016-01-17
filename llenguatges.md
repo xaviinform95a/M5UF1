@@ -49,3 +49,18 @@ programa font a codi de bytes, sinó que es va traduint i executant instrucció 
 Algunes característiques són:
   * El codi interpretat no és executat directament pel sistema operatiu. sinó que fa ús d'un intèrpret.
   * Cada sistema té el seu propi intèrpret.
+
+Els llenguatges de quarta generació o llenguatges de propòsit específic.
+Aporten un nivell molt alt d’abstracció en la programació, permetent
+desenvolupar aplicacions sofisticades en un espai curt de temps, molt inferior
+al necessari per als llenguatges de 3a generació.
+
+Alguns dels aspectes positius que mostren aquest tipus de llenguatges de programació
+són:
+  * Major abstracció.
+  * Menor esforç de programació.
+  * Menor cost de desenvolupament del programari.
+  * Basats en generació de codi a partir d’especificacions de nivell molt alt.
+  * Es poden dur a terme aplicacions sense ser un expert en el llenguatge.
+  * Solen tenir un conjunt d’instruccions limitat.
+  * Són específics del producte que els ofereix.
