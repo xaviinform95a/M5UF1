@@ -1,5 +1,43 @@
+####1.5 Característiques dels llenguatges més difosos
+
 Existeixen molts llenguatges de programació diferents, fins al punt que moltes tecnologies tenen el seu llenguatge propi. Cada un d’aquests llenguatges té un seguit de particularitats que el fan diferent de la resta.
 Els llenguatges de programació més difosos són aquells que més es fan servir en cadascun dels diferents àmbits de la informàtica.
+
+**1.5.1 Característiques de la programació estructurada**
+
+Es basa en el denominat teorema de l'estructura. Per això utilitza únicament tres estructures: sequència, selecció i iteració.
+
+**Claredat**
+
+Hi haurà d'haver prou informació al codi per tal que el programa pugui ser entès i verificat. Tot programa estructurat pot ser llegit des del principi a la fi sense interrupcions en la sequència normal de lectura.
+
+**Teorema de l'estructura**
+
+  * Sequència: instruccions executables successivament una darrere l'altra.
+  * Selecció: la instrucció condicional amb doble alternativa de la forma "si condició, lalvors SentènciaA, sinó SentènciaB".
+  * Iteració: el bucle condicional "mentre condició, fes SentènciaA", que executa les instruccions repetidament mentre la condició es compleixi.
+
+
+**Disseny descendent**
+
+El disseny descendent és una tència que es basa en el concepte de "divideix i venceràs" per tal de resoldre un problema en l'àmbit de la programació. Es tracta de la resolució delp roblema al llarg de diferents nivells d'abstracció partint d'un nivell més abstracte i finalitzant en un nivell de detall.
+
+**Programació modular**
+
+La realització d'un programa sense seguir una tècnica de programació modular produeix sovint un conjunt enorme de sentències l'execuó de les quals és complexa de seguir i d'entendre, amb la qual cosa es fa gairebé impossible la depuració d'errors i la introducció de millores.
+Quan es parla de programació modular, ens referim a la divisió d'un programa en parts més manejables i independents. Una rela pràctica per aconseguir aquest propòsit és establir que cada segment del programa no excedeixi, en longitud d'un pam de codificació.
+En la majoria de llenguatges, els mòduls es tradueixen a:
+  * Procediments: Són subprogrames que duen a terme una tasca determinada i retornen 0 o més d'un valor. S'utilitzen per estructurar el programa i millorar la seva claredat.
+
+  * Funcions: Són subprogrames que duen a terme una determinada tasca i retornen un únic resultat o valor. S'utilitzen per crear operacions noves que no ofereix el llenguatge.
+
+**Tipus d'abstractes de dades (TAD)**
+
+En programació, el tipus de dades d'una variable és el conjunt de valors que la variable pot assumir. Per exemple, una variable de tipus booleà pot adoptar només dos valors possibles: vertader o fals. A més hi ha un conjunt limitat per ben definit d'operacions que tenen sentit sobre els valors d''un tipus de dades; aixó operacions típiques ssobre el tipus booleà són AND o OR.
+Els llenguatges de programació assumeixen un nombre determinat de tipus de dades, que pot variar d'un llenguatge a un altre.
+
+**1.5.2 Característiques de la programació orientada a objectes**
+
 
 L’**orientació a objectes** (en endavant, OO) és un paradigma de construcció de programes basat en una abstracció del món real. En un programa orientat a objectes, l’abstracció no són els procediments ni les funcions, són els objectes. Aquests objectes són una representació directa d’alguna cosa del món real, com ara un llibre, una persona, una organització, una comanda, un empleat...
 
@@ -41,4 +79,4 @@ La **sobreescriptura (override)** de mètodes consisteix a reimplementar un mèt
 Un exemple de sobrecàrrega de mètodes podria ser el del mètode *Area()*. A partir d’una classe *Figura* que conté el mètode *Area()*, existeix una classe derivada per a alguns tipus de figures (per exemple *Recangle* o *Quadrat*).
 
 
-[Tornar a l'Ìndex](index.md)
+[Tornar a l'Índex](index.md)
